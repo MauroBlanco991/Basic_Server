@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Postman Server.iml" filepath="$PROJECT_DIR$/.idea/Postman Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic Server.iml" filepath="$PROJECT_DIR$/.idea/Basic Server.iml" />
     </modules>
   </component>
 </project>
